@@ -1,7 +1,7 @@
 {
   "name": "witheredlilith",
-  "description": "Safe starter preset.",
-  "version": "1.0",
+  "description": "based colors with lilith background.",
+  "version": "1.1",
   "authors": [
     {
       "name": "withered sanity",
@@ -357,12 +357,19 @@
     "WHITE_500": "#ffffff",
     "WHITE_630": "#aaaaaa",
     "ROLE_DEFAULT": "#aaaaaa"
+   },
+  "background": {
+    "url": "https://raw.githubusercontent.com/withered-sanity/Testing/refs/heads/main/HJNxanbbUAAUub6.jpg",
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
   },
   "plus": {
     "version": "0",
-    "iconPack": "default",
-    "mentionLineColor": "#ff0000",
-    "customOverlays": false
+    "iconpack": "solar"
   },
-  "spec": 2
+  "spec": 2,
+  "createdAt": "2025-10-05",
+  "source": "local"
 }
